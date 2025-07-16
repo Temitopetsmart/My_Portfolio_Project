@@ -3,6 +3,14 @@
   padding: 0;
 }
 
+@media (max-width: 768px) {
+  /* Tablet styles */
+}
+
+@media (max-width: 480px) {
+  /* Phone styles */
+}
+
 body {
   color: wheat;
   background-image: url(/img/pc\ and\ phone.jpg);
